@@ -1,1 +1,3 @@
-# timeOnServer
+# timeOnServer 
+thisDay;
+thisTime;
